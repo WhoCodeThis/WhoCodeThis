@@ -67,7 +67,7 @@ Currently pursuing a degree in **Computer Science** at **WSB Merito University**
 </p>
 
 ---
-
+<!--
 ## 📘 Education
 
 - **WSB Merito University**\
@@ -77,7 +77,8 @@ Currently pursuing a degree in **Computer Science** at **WSB Merito University**
 
 
 ---
-
+-->
+<!--
 ## 🌍 Languages
 
 - English – B2+
@@ -87,7 +88,7 @@ Currently pursuing a degree in **Computer Science** at **WSB Merito University**
 - Spanish – Beginner
 
 ---
-
+-->
 ## 📫 Socials
 
 <p align="left">
