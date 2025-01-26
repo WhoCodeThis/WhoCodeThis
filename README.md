@@ -104,4 +104,4 @@ Currently pursuing a degree in **Computer Science** at **WSB Merito University**
 I thrive in diverse environments – whether optimizing IT systems, leading a sales team, or crafting the perfect cocktail, I always aim for excellence!
 
 
-![snake gif](https://github.com/WhoCodeThis/WhoCodeThis/blob/output/github-snake-dark.svg
+![snake gif](https://github.com/WhoCodeThis/WhoCodeThis/blob/output/github-snake-dark.svg)
