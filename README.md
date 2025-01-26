@@ -29,7 +29,7 @@ Currently pursuing a degree in **Computer Science** at **WSB Merito University**
 
 ### **Databases**
 <p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=36440&format=png&color=000000" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="36" height="36" alt="MySQL" /></a>
 </p>
 
