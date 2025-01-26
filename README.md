@@ -57,10 +57,11 @@ Currently pursuing a degree in **Computer Science** at **WSB Merito University**
 
 ## 📘 Education
 
-- **Engineer, Computer Science**\
-  *WSB Merito University* (2020.10 – Present)
+- **WSB Merito University**\
+  *Mobile Applications Engineer, Computer Science* (2020.10 – Present)
 - **Physical-Mathematical Lyceum**\
   Secondary Education (2016.09 – 2020.06)
+
 
 ---
 
