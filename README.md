@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Mobile Applications Engineer by education, with a solid foundation in system administration, networking, database management, and helpdesk support. Combines strong technical skills with extensive experience collaborating with clients and guiding teams to achieve optimal results.
+A Mobile Applications Engineer by education, with a solid foundation in system administration, networking, database management, and helpdesk support. I combine strong technical skills with extensive experience in phone and direct sales, closing deals, delivering superior customer experiences, and effectively managing teams to achieve optimal results. I am currently seeking an opportunity that will foster continued professional growth and provide valuable, engaging challenges in a forward-thinking organization.
 
 Currently pursuing a degree in **Computer Science** at **WSB Merito University**, I combine my academic foundation with hands-on experience to deliver impactful solutions.
 
